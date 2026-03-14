@@ -80,7 +80,15 @@ Output:
 * IoT-based water sensor integration
 
 ---
+## Application Screenshots
 
+### Input Interface
+![Input Page](input.png)
+
+### Output Result
+![Output Page](output.png)
+
+---
 ## Author
 
 **Naga Hasmitha**
